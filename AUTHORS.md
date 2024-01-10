@@ -29,6 +29,7 @@ They have kindly agreed to review and help update future contributions for the t
 * [Martin Folkers (S1SYPHOS)](https://github.com/S1SYPHOS) — [0+](https://github.com/jlevy/the-art-of-command-line/commits?author=S1SYPHOS)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3AS1SYPHOS) — _translation maintainer (de)_
 * [Stepan Babala (stepan0904)](https://github.com/stepan0904) — [37+](https://github.com/jlevy/the-art-of-command-line/commits?author=stepan0904)/[6+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Astepan0904) — _translation (uk)_
 * [Ungsik Yun (Ungsik-Yun)](https://github.com/Ungsik-Yun) — [15+](https://github.com/jlevy/the-art-of-command-line/commits?author=Ungsik-Yun)/[3+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3AUngsik-Yun) — _translation maintainer (ko)_
+* [Romain Salvaggio (Salvaxyz)]
 
 *Translators*
 
